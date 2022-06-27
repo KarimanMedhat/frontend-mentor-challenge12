@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(/images/bg-desktop.png);
+    background-image: url(images/bg-desktop.png);
     background-repeat: no-repeat;
     background-color: var(--VeryDarkBlue);
     background-size: 1265px 290px;
@@ -144,7 +144,6 @@ body {
     position: absolute;
     right: 0;
     top: 40px;
-
 }
 .additional-box span {
     color: black;
