@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(images/bg-desktop.png);
+    background-image: url(../images/bg-desktop.png);
     background-repeat: no-repeat;
     background-color: var(--VeryDarkBlue);
     background-size: 1265px 290px;
